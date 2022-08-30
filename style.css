@@ -59,6 +59,7 @@
     align-items:  center;
 }
 .apps-button{
+    cursor: pointer;
     border:none;
     border-radius: 5px;
     width: 20%;
@@ -85,6 +86,7 @@
     margin-top: 10px;
 }
 #maintain-button{
+    cursor: pointer;
     appearance: none;
     margin-left: 20%;
     background-color: rgb(229, 225, 225);
@@ -114,6 +116,7 @@
 
 }
 .enter-button{
+    cursor: pointer;
     color: rgb(184, 182, 182);
     background-color: #e8e4e4;
     height: 50px;
@@ -125,6 +128,7 @@
     background-color: #CF3C3F;
 }
 #ending-text{
+    cursor: pointer;
     margin-top: 5vh;
     color:#A7A7A7;
     font-size: small;
@@ -133,6 +137,7 @@
     justify-content: center;
 }
 #ending-text1{
+    cursor: pointer;
     margin-top:5px;
     color:#A7A7A7;
     font-weight: bold;
@@ -140,6 +145,7 @@
     display: flex;
     justify-content: center;
 }
+
 @media only screen and (max-width: 1400px) {
     #container-left{
         width: 40%;
